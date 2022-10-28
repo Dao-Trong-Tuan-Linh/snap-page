@@ -211,7 +211,7 @@ li{
 .content-title span{
     margin-top: 45px;
     width: 100%;
-    display: block;
+    display: flex;
     
 }
 
